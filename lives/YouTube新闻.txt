@@ -1,0 +1,50 @@
+🍅国际新闻,#genre#
+
+Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
+Euronews English,https://www.youtube.com/watch?v=pykpO5kQJ98
+DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
+ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
+NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
+CNBC Ⓨ,https://www.youtube.com/c/CNBC/live
+Africanews English Ⓨ,https://www.youtube.com/c/africanews/live
+France 24 English Ⓨ,https://www.youtube.com/c/FRANCE24English/live
+FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI
+
+DW,https://www.youtube.com/watch?v=dZvHWVKY-AQ
+彭博财经台,https://www.youtube.com/watch?v=dp8PhLsUcFE
+ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
+CNBC Ⓨ,https://www.youtube.com/c/CNBC/live
+France24,https://www.youtube.com/watch?v=h3MuIUNCCzI
+CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
+NBC新闻,https://www.youtube.com/watch?v=og1gAgNsljM
+BBC Home,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+BBC Food,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+迪士尼,https://www.youtube.com/watch?v=LMj-ClGOg-E
+
+The Good Life Radio,https://www.youtube.com/watch?v=36YnV9STBqc
+
+🍅港台新闻,#genre#
+鳳凰資訊,https://www.youtube.com/watch?v=sUISafvOieY
+凤凰卫视,https://www.youtube.com/watch?v=dmDg7NfUoSw
+中天新聞,https://www.youtube.com/live/oIgbl7t0S_w?feature=share
+
+中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+
+中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
+华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtcK
+TVBS56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
+TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
+台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+寰宇全球新聞,https://www.youtube.com/watch?v=DDvdmzvaNJs
+
+三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
+民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
+鏡新闻,https://www.youtube.com/live/5n0y6b0Q25o
+三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
+東森Live,https://www.youtube.com/watch?v=R2iMq5LKXco
