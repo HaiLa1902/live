@@ -6,12 +6,6 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#LF_IPTV
-1
-
-#LF_XJJ
-1
-
 #LF_RADIO
 1
 
@@ -42,8 +36,8 @@ https://www.tdtchannels.com/lists/radio.m3u
 #16万MV
 https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
 
-#玩偶
-https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
+#LF_IPTV
+1
 
-#IPXV
-https://qu.ax/Adhq.txt
+#LF_XJJ
+1
