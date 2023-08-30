@@ -6,16 +6,44 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#IPTV
-https://qu.ax/Adhq.txt
+#LF_IPTV
+1
+
+#LF_XJJ
+1
+
+#LF_RADIO
+1
+
+#电视直播-I
+https://xhdwc.tk/tvlive.txt
+
+#电视直播-II
+https://live.fanmingming.com/tv/m3u/global.m3u
+
+#电视直播-III
+https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+#Radio
+https://live.fanmingming.com/radio/m3u/index.m3u
+
+#YouTube新闻
+https://ghproxy.com/raw.githubusercontent.com/HaiLa1902/live/main/lives/YouTube新闻.txt
+
+#YuanHsing•油管
+https://ghproxy.com/raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u
+
+#境外电视
+https://www.tdtchannels.com/lists/tv.m3u
+
+#境外广播
+https://www.tdtchannels.com/lists/radio.m3u
 
 #16万MV
 https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
 
-#油管直播
-https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/yt.txt
-
 #玩偶
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 
-
+#IPXV
+https://qu.ax/Adhq.txt
