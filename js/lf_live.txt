@@ -21,9 +21,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.
 #Radio
 https://live.fanmingming.com/radio/m3u/index.m3u
 
-#YouTube新闻
-https://ghproxy.com/raw.githubusercontent.com/HaiLa1902/live/main/lives/YouTube新闻.txt
-
 #YuanHsing•油管
 https://ghproxy.com/raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u
 
