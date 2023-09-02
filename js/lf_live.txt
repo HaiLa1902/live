@@ -18,6 +18,9 @@ https://live.fanmingming.com/tv/m3u/global.m3u
 #电视直播-III
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
+#电视直播-IV
+http://111.67.196.181/zhibo.txt
+
 #Radio
 https://live.fanmingming.com/radio/m3u/index.m3u
 
