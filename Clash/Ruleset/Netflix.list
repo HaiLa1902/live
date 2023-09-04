@@ -1,24 +1,24 @@
-  - DOMAIN-SUFFIX,netflixdnstest0.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest1.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest10.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest2.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest3.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest4.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest5.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest6.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest7.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest8.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixdnstest9.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixinvestor.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixstudios.com,📺 Netflix
-  - DOMAIN-SUFFIX,netflixtechblog.com,📺 Netflix
-  - DOMAIN-SUFFIX,nflxext.com,📺 Netflix
-  - DOMAIN-SUFFIX,nflximg.com,📺 Netflix
-  - DOMAIN-SUFFIX,nflximg.net,📺 Netflix
-  - DOMAIN-SUFFIX,nflxsearch.net,📺 Netflix
-  - DOMAIN-SUFFIX,nflxso.net,📺 Netflix
-  - DOMAIN-SUFFIX,nflxvideo.net,📺 Netflix
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,📺 Netflix
-  - DOMAIN-KEYWORD,dualstack.apiproxy-,📺 Netflix
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web-,📺 Netflix
-  - DOMAIN-KEYWORD,netflixdnstest,📺 Netflix
+DOMAIN-SUFFIX,netflixdnstest0.com
+DOMAIN-SUFFIX,netflixdnstest1.com
+DOMAIN-SUFFIX,netflixdnstest10.com
+DOMAIN-SUFFIX,netflixdnstest2.com
+DOMAIN-SUFFIX,netflixdnstest3.com
+DOMAIN-SUFFIX,netflixdnstest4.com
+DOMAIN-SUFFIX,netflixdnstest5.com
+DOMAIN-SUFFIX,netflixdnstest6.com
+DOMAIN-SUFFIX,netflixdnstest7.com
+DOMAIN-SUFFIX,netflixdnstest8.com
+DOMAIN-SUFFIX,netflixdnstest9.com
+DOMAIN-SUFFIX,netflixinvestor.com
+DOMAIN-SUFFIX,netflixstudios.com
+DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.apiproxy-
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
+DOMAIN-KEYWORD,netflixdnstest
