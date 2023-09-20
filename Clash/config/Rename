@@ -1,4 +1,1 @@
-`BGP-HK-NF@HK``BGP-JP-NF@JP``BGP-SG-NF@SG``BGP-TW-NF@TW``BGP-US-NF@US``BGP-UK@UK``BGP-DE@DE``BGP-RU@RU`
-
-
-`Hong Kong 03@HK 03 | 0.5x``Hong Kong@HK``Taiwan 01@TW 01 | 0.5x``Taiwan@TW``Singapore@SG``Japan@JP``Korea@KR``United States@US``Germany@DE``France@FR``Italy@IT``Luxembourg@LU``Turkey@TR``Austrian@AT``Romania@RO``Cambodia@KH``Pakistan@PK``Kazakhstan@KZ``Vietnam 01@VN 01 | 2x`
+`BGP-HK-NF@HK``BGP-JP-NF@JP``BGP-SG-NF@SG``BGP-TW-NF@TW``BGP-US-NF@US``BGP-UK@UK``BGP-DE@DE``BGP-RU@RU``Hong Kong 03@Ato HK 03 | 0.5x``Hong Kong@Ato HK``Taiwan 01@Ato TW 01 | 0.5x``Taiwan@TW``Singapore@Ato SG``Japan@Ato JP 01 | 0.x1``Japan@Ato JP``Korea@Ato KR``United States@Ato US``Germany@Ato DE``France@Ato FR``Italy@Ato IT``Luxembourg@Ato LU``Turkey@Ato TR``Austrian@Ato AT``Romania@Ato RO``Cambodia@Ato KH``Pakistan@Ato PK``Kazakhstan@Ato KZ``Vietnam 01@Ato VN 01 | 2x`
