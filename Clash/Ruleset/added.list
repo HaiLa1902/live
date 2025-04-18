@@ -5,3 +5,6 @@ DOMAIN,x.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN,grok.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.com
